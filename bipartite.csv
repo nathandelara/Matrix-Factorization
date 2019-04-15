@@ -1,0 +1,8 @@
+Code,Name,Filename,n1,n2,n_edges
+SW,Southern women 1,opsahl-southernwomen,18.0,14.0,89.0
+UL,Unicode languages,unicodelang,248.0,610.0,1249.0
+SX,Sexual escorts,escorts,9652.0,6158.0,38540.0
+Mut,MovieLens user–tag,movielens-10m_ut,3654.0,16015.0,43228.0
+R2,Reuters-21578,gottron-reuters,19757.0,38677.0,978446.0
+M3,MovieLens 10M,movielens-10m_rating,69878.0,10677.0,10000054.0
+RE,Reuters,reuters,781265.0,283911.0,60569726.0

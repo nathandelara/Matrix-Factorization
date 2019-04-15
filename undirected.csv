@@ -1,0 +1,8 @@
+Code,Name,Filename,n_nodes,n_edges
+MK,Kangaroo,moreno_kangaroo,17.0,182.0
+JZ,Jazz musicians,arenas-jazz,198.0,5484.0
+Shf,Hamsterster friendships,petster-friendships-hamster,1788.0,24952.0
+RC,Reactome,reactome,5973.0,292770.0
+GW,Gowalla,loc-gowalla_edges,196591.0,1900654.0
+SK,Skitter,as-skitter,1694616.0,22188418.0
+OR,Orkut,orkut-links,3072441.0,234369798.0
